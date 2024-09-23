@@ -1,2 +1,5 @@
-# exemplo-mini-site
-Mini-site criado com recursos de HTML e CSS
+# Estilização de páginas HTML 
+
+## Contexto
+
+Análise das tags HTML existentes nas páginas e aplicação de diversos estilos CSS com regras, seletores, propriedades e valores. 
